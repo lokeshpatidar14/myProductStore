@@ -1,0 +1,31 @@
+.user-profile {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  background: linear-gradient(180deg, #eeffdd14, #edd8a7);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  border: none;
+}
+
+.profile-field {
+  margin-bottom: 20px;
+}
+.profile-view{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.save-button {
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.user-profile-page{
+  background: linear-gradient(180deg, #eeffdd14, #edd8a7) ;
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+

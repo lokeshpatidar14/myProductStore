@@ -1,0 +1,21 @@
+.admin-dashboard {
+  padding: 10px;
+
+ 
+  /* background-image: */
+  min-height: 100vh;
+}
+
+.dashboard-title {
+  text-align: center;
+  color: #333;
+}
+
+.dashboard-section {
+  margin-bottom: 40px;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  color: #333;
+}

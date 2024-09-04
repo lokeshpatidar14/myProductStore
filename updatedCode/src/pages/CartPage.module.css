@@ -1,0 +1,26 @@
+.cartPageContainer {
+  padding: 20px;
+  background: linear-gradient(0deg , #edd8a7 , #eeffdd14);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cartPageHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cartPageIcon {
+  margin-right: 10px;
+  align-items: end;
+}
+
+.cartPageTotal {
+  margin-left: 10px;
+  font-size: 1.2em;
+}
+
+.checkoutButton {
+  margin: 20px 20px 20px 250px;
+}
