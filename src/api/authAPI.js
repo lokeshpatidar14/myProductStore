@@ -1,7 +1,7 @@
 const BASE_URL = "https://identitytoolkit.googleapis.com/v1/accounts:";
 
 // API key
-const API_KEY = "AIzaSyBd3ZuSzLvNLW-vFOqLr7DjLYWhrKCTA8k";
+const API_KEY = "";
 
 // Sign up
 export const signUp = async (email, password) => {
